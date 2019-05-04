@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "695960009884",
+    "firebase_url": "https://researchhub-c138f.firebaseio.com",
+    "project_id": "researchhub-c138f",
+    "storage_bucket": "researchhub-c138f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695960009884:android:567c2d131ff28b1c",
+        "android_client_info": {
+          "package_name": "com.example.researchhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695960009884-ckbm95cb76eapk83i9pa9ocn28ijs5u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.researchhub",
+            "certificate_hash": "8a496991a11d38337e53e49c6c894b159372ce13"
+          }
+        },
+        {
+          "client_id": "695960009884-8nejpd5oskejdvksooc78re9cffp14aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.researchhub",
+            "certificate_hash": "738e3f7d6af83f8e3ae8d164c9128eca850a14d9"
+          }
+        },
+        {
+          "client_id": "695960009884-0a8qqeiag9hnssm1us4g0fnjpkj8etot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrilD41OiYHcCJhsh76pLefcHV1dQCrhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695960009884-0a8qqeiag9hnssm1us4g0fnjpkj8etot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
